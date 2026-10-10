@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CLEAR PREMIUM WATER — Android Billing & Ledger
 
 Native Android Studio project for an offline bottled-water billing app. Company details are prefilled in the app/PDF template:
@@ -40,3 +41,6 @@ This environment did not have the Android SDK, Gradle executable, or Android pla
 3. New Invoice → choose customer → add product lines → confirm quantities/rates → enter payment received → Save Invoice & Create PDF.
 4. Use the customer's ledger to review invoices and payments or record a later payment.
 5. Use Backup Database regularly and store the `.db` file somewhere safe.
+=======
+# Waqas
+>>>>>>> 7efeff8408b1620a6cbb38e95210984c6f4222b9
